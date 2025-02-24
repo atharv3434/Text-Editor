@@ -1,7 +1,7 @@
 # Text-Editor
 
 
-📂 Text Editor (Java-Only Project)
+📂 Text Editor 
 This project is a simple text editor, similar to Notepad, built entirely using Java with no external technologies. It allows users to create, edit, save, open, and search text files in a graphical interface.
 
 📌 Features
